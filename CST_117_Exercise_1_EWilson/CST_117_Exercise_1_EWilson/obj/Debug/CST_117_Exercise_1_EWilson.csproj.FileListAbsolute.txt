@@ -1,0 +1,10 @@
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\bin\Debug\CST_117_Exercise_1_EWilson.exe.config
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\bin\Debug\CST_117_Exercise_1_EWilson.exe
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\bin\Debug\CST_117_Exercise_1_EWilson.pdb
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\obj\Debug\CST_117_Exercise_1_EWilson.csprojResolveAssemblyReference.cache
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\obj\Debug\CST_117_Exercise_1_EWilson.Properties.Resources.resources
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\obj\Debug\CST_117_Exercise_1_EWilson.csproj.GenerateResource.cache
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\obj\Debug\CST_117_Exercise_1_EWilson.csproj.CoreCompileInputs.cache
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\obj\Debug\CST_117_Exercise_1_EWilson.exe
+c:\users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\obj\Debug\CST_117_Exercise_1_EWilson.pdb
+C:\Users\evanw\source\repos\CST_117_Exercise_1_EWilson\CST_117_Exercise_1_EWilson\obj\Debug\CST_117_Exercise_1_EWilson.Exercises1and2.resources
