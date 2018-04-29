@@ -1,0 +1,10 @@
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\bin\Debug\Week1_Exercise3.exe.config
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\bin\Debug\Week1_Exercise3.exe
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\bin\Debug\Week1_Exercise3.pdb
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\obj\Debug\Week1_Exercise3.Week1Exercise3.resources
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\obj\Debug\Week1_Exercise3.Properties.Resources.resources
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\obj\Debug\Week1_Exercise3.csproj.GenerateResource.cache
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\obj\Debug\Week1_Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\obj\Debug\Week1_Exercise3.exe
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\obj\Debug\Week1_Exercise3.pdb
+C:\Users\evanw\source\repos\Week1_Exercise3\Week1_Exercise3\obj\Debug\Week1_Exercise3.csprojResolveAssemblyReference.cache
